@@ -71,8 +71,7 @@ const Experience = () => {
             Experience
           </p>
           <p className="py-6">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos,
-            officiis!
+          These are the technologies I've worked with
           </p>
         </div>
 
