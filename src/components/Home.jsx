@@ -15,8 +15,7 @@ const Home = () => {
             I'm a MERN Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I have 2+ years of experience building and designing software.
-          As a Software developer, I build several modern software using
+          Hey! I am Devanshi. I am a software developer. I build several modern software using
           ReactJs, NodeJs and develop a highly functional and reusable UI
           component and develop RESTful APIs.
           </p>

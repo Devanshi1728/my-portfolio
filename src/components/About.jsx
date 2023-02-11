@@ -12,23 +12,15 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-          officiis rerum facilis ut, nostrum qui. Enim, non, quo deleniti
-          consequuntur accusantium aperiam architecto vitae nihil necessitatibus
-          quasi atque iure sint. Ipsam animi nihil aliquam tempora minima illum
-          numquam? Velit quae quidem architecto debitis est fugiat aspernatur
-          facere voluptate aliquam rerum!
+        <p className="text-xl mt-10">
+        I am a passionate ReactJS developer with 2+ years of hands-on experience with building and designing software.
+        As a Software developer, I build several modern software using ReactJS, 
+        NodeJs and develop a highly functional and reusable UI component and develop RESTful APIs, 
+        integrate REST APIs to UI components, Working with Redux Toolkit, strong proficiency in JavaScript.
         </p>
 
-        <br />
-        <p className="text-xl">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum quam
-          odit neque similique nisi at odio accusantium molestiae reiciendis
-          nemo. Eaque aspernatur nostrum magnam natus placeat dolor amet
-          accusantium ullam omnis, temporibus quas esse, laudantium nihil!
-          Doloremque in placeat soluta error cumque fugiat itaque laudantium
-          labore ea corporis. Impedit, nostrum.
+        <p className="text-xl mt-10 text-[#08fdd8]">
+        I actively keep checking for new updates in this field and I keep myself updated with the same.
         </p>
       </div>
     </div>
