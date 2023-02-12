@@ -47,6 +47,9 @@ const Contact = () => {
             </button>
           </form>
         </div>
+      <div className="text-center">
+        <p>Made with <span className="text-red-500 text-2xl"> ♥ </span> by Devanshi</p>
+      </div>
       </div>
     </div>
   );
