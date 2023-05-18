@@ -2,7 +2,8 @@ import React from "react";
 import TodoList from "../assets/portfolio/TodoList.png";
 import reactWeather from "../assets/portfolio/WeatherApp.png";
 import expenseManagement from "../assets/portfolio/ExpenseManagement.png";
-import chatGPT from "../assets/portfolio/chatGPTClone.png";
+import chatGPT from "../assets/portfolio/chatGPTClone2.png";
+import ecommerce from "../assets/portfolio/Ecommerce-fashion2.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -25,6 +26,11 @@ const Portfolio = () => {
       id: 3,
       src: chatGPT,
       href: "https://github.com/Devanshi1728/chatGPT",
+    },
+    {
+      id: 3,
+      src: ecommerce,
+      href: "https://github.com/Devanshi1728/mernEcommerceProject",
     },
   ];
   return (
