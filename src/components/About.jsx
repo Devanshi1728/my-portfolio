@@ -4,9 +4,9 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full bg-gradient-to-b from-gray-800 to-black text-white"
     >
-      <div className="flex flex-col justify-center p-4 h-full max-w-screen-lg mx-auto">
+      <div className="flex flex-col justify-center p-4 max-w-screen-lg mx-auto">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
@@ -14,10 +14,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          As a software developer with over 2+ years of experience, I have a
+          As a software developer with over 4+ years of experience, I have a
           strong working knowledge of various JavaScript frameworks such as
           ReactJS for frontend development and NodeJs for backend development. I
-          am proficient in TypeScript, Redux Toolkit, React Router, Storybook,
+          am proficient in TypeScript, Redux Toolkit, React Router, Mobx,
           MongoDB, and PostgreSQL. I have a sound understanding of ES6 concepts
           and have worked with Material-UI, Ant Design, and Tailwind CSS for
           building modern user interfaces.
