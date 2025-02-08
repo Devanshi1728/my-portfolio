@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImg.png";
+import HeroImage from "../assets/heroImg.jfif";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -15,9 +15,9 @@ const Home = () => {
             I'm a MERN Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Hey! I am Devanshi. I am a software developer. I build several modern software using
-          ReactJs, NodeJs and develop a highly functional and reusable UI
-          component and develop RESTful APIs.
+            Hey! I am Devanshi. I am a software developer. I build several
+            modern software using ReactJs, NodeJs and develop a highly
+            functional and reusable UI component and develop RESTful APIs.
           </p>
 
           <div>
