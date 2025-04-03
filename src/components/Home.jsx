@@ -40,7 +40,7 @@ const Home = () => {
             <img
               src={HeroImage}
               alt="My Profile"
-              className="rounded-2xl animate-float mx-auto w-[350px] h-[380px] object-cover shadow-xl shadow-[#08fdd8] hover:scale-105 transition-transform duration-500"
+              className="rounded-2xl mx-auto w-[350px] h-[380px] object-cover shadow-xl shadow-[#08fdd8] hover:scale-105 transition-transform duration-500"
             />
           </div>
         </div>
