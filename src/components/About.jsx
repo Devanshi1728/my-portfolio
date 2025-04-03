@@ -3,17 +3,18 @@ import React from "react";
 const About = () => {
   return (
     <div
-      name="about"
-      className="w-full bg-gradient-to-b from-gray-800 to-black text-white"
-    >
-      <div className="flex flex-col justify-center p-4 max-w-screen-lg mx-auto">
-        <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-            About
-          </p>
+    name="about"
+    className="bg-gradient-to-b to-black from-gray-800 text-white w-full"
+  >
+    <div className="max-w-screen-lg p-6 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="text-center pb-8">
+        <p className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#08fdd8] to-[#ff4d4d]">
+          About
+        </p>
+          <div className="w-20 h-1 bg-[#08fdd8] mt-4 mx-auto"></div>
         </div>
 
-        <p className="text-xl mt-10">
+        <p className="text-lg sm:text-xl mt-6 sm:mt-10">
           As a software developer with over 4+ years of experience, I have a
           strong working knowledge of various JavaScript frameworks such as
           ReactJS for frontend development and NodeJs for backend development. I
@@ -23,7 +24,7 @@ const About = () => {
           building modern user interfaces.
         </p>
 
-        <p className="text-xl mt-10 ">
+        <p className="text-lg sm:text-xl mt-6 sm:mt-10">
           In addition, I am experienced in using version control and project
           management tools like Git, Jira, and Bitbucket, and I am familiar with
           Agile development methods. I have excellent communication skills and
@@ -34,14 +35,14 @@ const About = () => {
           Project.
         </p>
 
-        <p className="text-xl mt-10">
+        <p className="text-lg sm:text-xl mt-6 sm:mt-10">
           I have integrated REST APIs into UI components and have experience
           working with Redux Toolkit. Additionally, I have designed and
           developed websites in WordPress. My skills include JavaScript,
           ReactJS, Redux Toolkit, MongoDB, NodeJs, TypeScript, and HTML/CSS.
         </p>
 
-        <p className="text-xl mt-10 text-[#08fdd8]">
+        <p className="text-lg sm:text-xl mt-6 sm:mt-10 text-[#08fdd8]">
           I actively keep checking for new updates in this field and I keep
           myself updated with the same.
         </p>
